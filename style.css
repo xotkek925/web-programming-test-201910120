@@ -1,0 +1,23 @@
+h1 {
+    color: green;
+    text-align: center;
+}
+
+h3 {
+    text-align: right;
+}
+
+#photo1 {
+    text-align: center;
+    height: auto;
+}
+
+button {
+    width: 1000px;
+    height: 80px;
+    margin: auto;
+    text-align: center;
+    display: block;
+    background-color: lightgreen;
+
+}
